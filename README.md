@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i am jie gao
 <pre>
 🔭 I’m currently working on china
 🌱 I’m currently learning WebGL
@@ -6,12 +6,5 @@
 </pre>
 
 
-<!--
-**crithes/crithes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on china
-- 🌱 I’m currently learning WebGL
-- 💬 Ask me about a WebGL engineer
--->
+### ⭐️ &nbsp;Github Star
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=crithes&count_private=true&show_icons=true"/>

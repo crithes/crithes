@@ -1,4 +1,4 @@
-### Hi there i am jie gao
+### Hi,i am jie gao
 <pre>
 🔭 I’m currently working on china
 🌱 I’m currently learning WebGL
